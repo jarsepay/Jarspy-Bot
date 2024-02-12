@@ -1,3 +1,5 @@
+This bot is still using QR Scanning to connect the bot. Please provide 2 handphones, so you can connect to the bot.
+
 ![cover](https://telegra.ph/file/476dabd35c800091e0357.jpg)
 
 <h1 align="center">Jarspy - Bot</h1>
