@@ -1,4 +1,4 @@
-This bot is still using QR Scanning to connect the bot. Please provide 2 handphones, so you can connect to the bot. We will trying to change it with a pairing code to connect to the bot, along with the Jadibot feature. Support us by join our [whatsapp group here](https://chat.whatsapp.com/KieFrG8MEt7C99IJKYS8qE)
+This bot is still using QR Scanning to connect the bot. Please provide 2 handphones, so you can connect to the bot. We will trying to change it with a pairing code to connect to the bot, along with the Jadibot feature. See more information about Jarspy from our [whatsapp group here](https://chat.whatsapp.com/KieFrG8MEt7C99IJKYS8qE)
 
 ![cover](https://telegra.ph/file/476dabd35c800091e0357.jpg)
 
