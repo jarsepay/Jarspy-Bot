@@ -31,6 +31,9 @@
 Wanna see all the bot commands? lookout our main bot [here](https://wa.me/6287841972915)
 > our main bot is using the premium script, if you want to buy it please contact the owner [here](https://wa.me/6282148864989)
 
+"How many files have i encrypted for the free version script?"
+> we decided to encrypt some files, so they cannot sell this script and act in their name as the owner of this script.
+
 ### Requirements
 
 - [x] NodeJS v18 or higher
