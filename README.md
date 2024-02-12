@@ -24,12 +24,12 @@
 - Anonymous: Start, Leave, Next
 - Jadi Bot: Become a clone bot, and seeing list of the cloned bot
 - Owner: Broadcasts, Add & Delete Premium Users, Get Plugin, Cheat, Session, Randompicks for giveaway, Verify & Unverify Users, etc.
-- Youtube: Play Audio, Youtube Video & Audio, Youtube Shorts, etc.
+- Youtube: Play Audio, Youtube Video & Audio, Youtube Transcript, etc.
 - Internet: Google Image Search, Weather & Earthquake Information, Random Facts, Random Jokes, Spotify Search, Yandex, etc.
 - Game: Bomb, Chess, Ulartangga, Hangman, Guess, Police, Werewolf, etc.
 
 Wanna see all the bot commands? lookout our main bot [here](https://wa.me/6287841972915)
-> Will be increased every time it get new updates
+> our main bot is using the premium script, if you want to buy it please contact the owner [here](https://wa.me/6282148864989)
 
 ### Requirements
 
