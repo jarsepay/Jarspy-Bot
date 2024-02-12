@@ -12,27 +12,39 @@
 <a href="https://discord.com/invite/2t3qJzuUxH"><img title="Grup" src="https://img.shields.io/badge/Discord Server-grey.svg?style=for-the-badge&logo=discord"></a>
 
 # Introduction
-> Jarspy is a WhatsApp Bot with many multifunctional features, using [Games-Wabot](https://github.com/BochilGaming/games-wabot) Base by [BochilGaming](https://github.com/BochilGaming)
+Jarspy is a WhatsApp Bot with many multifunctional features, using [Games-Wabot](https://github.com/BochilGaming/games-wabot) from [BochilGaming](https://github.com/BochilGaming)
 
 ### The features we provide
 - AI: OpenAI, AI Character, To Anime, To Zombie, etc.
 - Anime: Animeinfo, Mangainfo, Random Anime Pfp, Anime Couple Pfp, etc.
 - Downloader: Instagram, TikTok, Facebook, Danbooru, Gitclones, Mediafire, Pixiv, etc.
-- Tools: Lookup, Photo Enhancer, Encryption, Short Url, Temp Mail, Translate, etc.
+- Tools: Lookup, Photo Enhancer, Short Url, etc.
 - Sticker: Sticker Maker, Sticker to Video, Gif To Sticker, Watermark a Sticker, etc.
 - Group: Ban Chat, Kick Member, Hidetags, Welcome & Bye, Demote, Promote, Invite, etc.
 - Anonymous: Start, Leave, Next
 - Jadi Bot: Become a clone bot, and seeing list of the cloned bot
-- Owner: Broadcasts, Add & Delete Premium Users, Get Plugin, Cheat, Session, Randompicks for giveaway, Verify & Unverify Users, etc.
+- Owner: Broadcasts, Add & Delete Premium Users, Get Plugin, Cheat, Get Sessions, Randompicks for giveaway, etc.
 - Youtube: Play Audio, Youtube Video & Audio, Youtube Transcript, etc.
-- Internet: Google Image Search, Weather & Earthquake Information, Random Facts, Random Jokes, Spotify Search, Yandex, etc.
+- Internet: Google Image Search, Weather, Earthquake Information, Random Facts, Random Jokes, Yandex, etc.
 - Game: Bomb, Chess, Ulartangga, Hangman, Guess, Police, Werewolf, etc.
 
-Wanna see all the bot commands? lookout our main bot [here](https://wa.me/6287841972915)
+Current feature in total are 400+ feature without any errors!
+Wanna see all the bot commands? go to our main bot [here](https://wa.me/6287841972915)
 > our main bot is using the premium script, if you want to buy it please contact the owner [here](https://wa.me/6282148864989)
 
+### Questions
 "How many files have i encrypted for the free version script?"
 > we decided to encrypt some files, so they cannot sell this script and act in their name as the owner of this script.
+
+List of encrypted code:
+- main.js
+- _autobackup.js
+- _autorespon.js
+- jarspy-script.js
+- jarspy-tqto.js
+- youtube-transkrip.js
+
+Warn from me: do not change anything from the above filename list, if you dont want to get any errors!
 
 ### Requirements
 
