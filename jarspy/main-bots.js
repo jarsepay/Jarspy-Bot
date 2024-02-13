@@ -7,12 +7,12 @@
   • Ada kesulitan? Hubungi saya wa.me/6282148864989 (Jarsépay)
 */
 
-let jarspy = async (m, { conn }) => {
+/*let jarspy = async (m, { conn }) => {
     try {
         const groupId = m.chat;
         const listbot = [
             { number: conn.user.jid, name: conn.user.name, groupId }, 
-            ...(conn.user.listbot || [])
+            ...(conn.user.listbot[groupId] || [])
         ].filter(bot => bot.groupId === groupId);
 
         const totalBots = listbot.length;
@@ -37,4 +37,4 @@ jarspy.command = /^(bots)$/i;
 
 jarspy.group = true;
 
-export default jarspy;
+export default jarspy;*/
