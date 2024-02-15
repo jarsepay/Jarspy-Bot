@@ -156,7 +156,7 @@ import fg from "api-dylux"
                  }) 
   
              } catch (e) { 
-                 await m.reply(eror) 
+                 await m.reply("Error: " + e.message) 
              } 
          } 
      } 
