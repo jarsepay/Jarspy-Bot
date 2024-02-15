@@ -91,8 +91,8 @@ import {
                  }, { 
                      quoted: m 
                  }) 
-             } catch { 
-                 await m.reply(eror) 
+             } catch (e) { 
+                 await m.reply("Error: " + e.message)
              } 
          } 
      } 
