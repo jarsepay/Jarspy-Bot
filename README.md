@@ -17,7 +17,7 @@ This bot is still using QR Scanning to connect the bot. Please provide 2 handpho
 Jarspy is a WhatsApp Bot with many multifunctional features, using [Games-Wabot](https://github.com/BochilGaming/games-wabot) from [BochilGaming](https://github.com/BochilGaming)
 
 ### The features we provide
-- AI: OpenAI, AI Character, To Anime, To Zombie, etc.
+- AI: OpenAI, AI Character, Bing, Bing Image, To Anime, To Zombie, etc.
 - Anime: Animeinfo, Mangainfo, Random Anime Pfp, Anime Couple Pfp, etc.
 - Downloader: Instagram, TikTok, Facebook, Danbooru, Gitclones, Mediafire, Pixiv, etc.
 - Tools: Lookup, Photo Enhancer, Short Url, etc.
@@ -29,6 +29,7 @@ Jarspy is a WhatsApp Bot with many multifunctional features, using [Games-Wabot]
 - Youtube: Play Audio, Youtube Video & Audio, Youtube Transcript, etc.
 - Internet: Google Image Search, Weather, Earthquake Information, Random Facts, Random Jokes, Yandex, etc.
 - Game: Bomb, Chess, Ulartangga, Hangman, Guess, Police, Werewolf, etc.
+- Roleplaying Games: Adventure, Daily, Mining, Hunting, Trading, Transferring, Opening Crates, Gambling, Improve your Ability, Apply for Job, Confess to your favorite Waifu & Husbu, Date with your Waifu & Husbu, Follow or Confess with real person, Kill a person, Jail someone with Police jobs, Heal a low hp players with Doctor jobs, Go eat or starve and died, Get Quest, Move Location, Select your own skills, and many more!
 
 Current feature in total are 400+ feature without any errors!
 Wanna see all the bot commands? go to our main bot [here](https://wa.me/6287841972915)
