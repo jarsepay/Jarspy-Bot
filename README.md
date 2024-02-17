@@ -45,7 +45,6 @@ List of encrypted code:
 - _autorespon.js
 - jarspy-script.js
 - jarspy-tqto.js
-- youtube-transkrip.js
 
 Warn from me: do not change anything from the above filename list, if you dont want to get any errors!
 
