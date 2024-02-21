@@ -14,7 +14,7 @@ const items = [
 ]
 
 let confirmation = {}
-let cooldown = isPrems => isPrems ? 450000 : 1800000
+let cooldown = 450000
 
 async function jarspy(m, { conn, args, usedPrefix, command, isPrems }) {
   if (confirmation[m.sender]) return m.reply('Kamu sedang melakukan pencurian')
