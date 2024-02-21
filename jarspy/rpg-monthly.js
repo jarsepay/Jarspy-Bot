@@ -8,7 +8,7 @@
 
 import db from '../lib/database/index.js'
 
-let cooldown = isPrems => isPrems ? 648000000 : 2592000000;
+let cooldown = 2592000000;
 
 let jarspy = async (m, { isPrems }) => {
     let user = await db.users.get(m.sender)
