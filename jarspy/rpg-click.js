@@ -11,7 +11,7 @@ import Connection from '../lib/connection.js';
 
 import { areJidsSameUser } from '@whiskeysockets/baileys';
 
-let cooldown = isPrems => isPrems ? 3750 : 15000
+let cooldown = 10000;
 let jarspy = async (m, { isPrems, conn: _conn, conn }) => {
   let user = await db.users.get(m.sender);
   if (user.jail === true) {
