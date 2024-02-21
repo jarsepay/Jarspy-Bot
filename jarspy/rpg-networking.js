@@ -10,7 +10,7 @@ import db from '../lib/database/index.js'
 import Connection from '../lib/connection.js'
 import { areJidsSameUser } from '@whiskeysockets/baileys'
 
-let cooldown = isPrems => isPrems ? 15000 : 30000
+let cooldown = 15000
 let jarspy = async (m, { isPrems, conn: _conn, conn }) => {
   const user = await db.users.get(m.sender)
   
