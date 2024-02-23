@@ -63,6 +63,9 @@ const items = {
         },
         smartphone: {
             money: 5000000,
+        },
+        pickaxe: {
+            money: 500000,
         }
     },
     sell: {
@@ -119,7 +122,10 @@ const items = {
         },
         smartphone: {
             money: 2500000,
-        }
+        },
+        pickaxe: {
+            money: 250000,
+        }  
     }
 }
 
