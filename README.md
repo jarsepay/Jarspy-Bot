@@ -2,7 +2,7 @@ This bot is still using QR Scanning to connect to the bot. Please provide 2 hand
 
 We will trying to change it with a pairing code, so you can connect it easily, along with the Jadibot feature. See more information about Jarspy from our [whatsapp group here](https://chat.whatsapp.com/KieFrG8MEt7C99IJKYS8qE)
 
-NOTE: BUGS MAY BE INCREASED SINCE ITS ABANDONED, I HOPE Y'ALL CAN FIX IT. OR, YOU CAN CONTACT TO ME TO FIX IT [HERE](https://wa.me/6282148864989)
+NOTE: BUGS & ERRORS MAY BE INCREASED SINCE THIS PROJECT ITS ABANDONED, I HOPE Y'ALL CAN FIX IT. OR, YOU CAN CONTACT ME TO FIX IT [HERE](https://wa.me/6282148864989)
 
 ![cover](https://telegra.ph/file/476dabd35c800091e0357.jpg)
 
