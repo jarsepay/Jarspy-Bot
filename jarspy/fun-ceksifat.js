@@ -2,7 +2,7 @@ import fetch from 'node-fetch';
   
 let jarspy = async (m, { conn, command, text }) => { 
    let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender; 
-   let pp = await conn.profilePictureUrl(who).catch(_ => hwaifu.getRandom()); 
+   let pp = await conn.profilePictureUrl(who).catch(_ => thumb.getRandom()); 
    let name = await conn.getName(who); 
   
    if (!text) return conn.reply(m.chat, '*Masukan Namamu!*', m); 
