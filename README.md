@@ -43,8 +43,6 @@ Wanna see all the bot commands? go to our main bot [here](https://wa.me/62878419
 
 List of encrypted code:
 - main.js
-- jarspy-script.js
-- jarspy-tqto.js
 
 Warn from me: do not change anything from the above filename list, if you dont want to get any errors!
 
