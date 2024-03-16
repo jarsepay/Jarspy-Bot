@@ -45,8 +45,6 @@ Wanna see all the bot commands? go to our main bot [here](https://wa.me/62878419
 
 List of encrypted code:
 - main.js
-- _autobackup.js
-- _autorespon.js
 - jarspy-script.js
 - jarspy-tqto.js
 
