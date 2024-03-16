@@ -1,8 +1,6 @@
-This bot is still using QR Scanning to connect to the bot. Please provide 2 handphones to connect.
+I will not provide an update to switch this connect options to pairing code because it is likely to be sold by JB kid (anak jb) if i provide this update. See more information about this script from our [whatsapp group here](https://chat.whatsapp.com/I2y6xw47Vg2DuslgQmLjqg)
 
-We will trying to change it with a pairing code, so you can connect it easily, along with the Jadibot feature. See more information about Jarspy from our [whatsapp group here](https://chat.whatsapp.com/KieFrG8MEt7C99IJKYS8qE)
-
-### ⚠️ NOTE: BUG & ERRORS MAY BE INCREASED SINCE THIS PROJECT ITS ABANDONED, I HOPE Y'ALL CAN FIX IT. OR, YOU CAN CONTACT ME TO FIX IT [HERE](https://wa.me/6282148864989)
+### ⚠️ YOU CAN CONTACT ME TO FIX SOME BUGS & ERRORS [HERE](https://wa.me/6282148864989)
 
 ![cover](https://telegra.ph/file/476dabd35c800091e0357.jpg)
 
@@ -12,7 +10,7 @@ We will trying to change it with a pairing code, so you can connect it easily, a
 <a href="https://wa.me/6282148864989"><img title="Grup" src="https://img.shields.io/badge/Contact to Owner-black.svg?style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p align="center">
-<a href="https://chat.whatsapp.com/KieFrG8MEt7C99IJKYS8qE"><img title="Grup" src="https://img.shields.io/badge/Grup WhatsApp Jarspy Bot-green.svg?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/I2y6xw47Vg2DuslgQmLjqg"><img title="Grup" src="https://img.shields.io/badge/Grup WhatsApp Bot-green.svg?style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p align="center">
 <a href="https://discord.com/invite/2t3qJzuUxH"><img title="Grup" src="https://img.shields.io/badge/Discord Server-grey.svg?style=for-the-badge&logo=discord"></a>
@@ -72,4 +70,4 @@ Warn from me: do not change anything from the above filename list, if you dont w
 > New features will always be added
 
 ## Support Server
-Got any questions or feedback? Join our Discord Server: [Discord Server](https://discord.com/invite/2t3qJzuUxH) or [WhatsApp Group](https://chat.whatsapp.com/KieFrG8MEt7C99IJKYS8qE)
+Got any questions or feedback? Join our Discord Server: [Discord Server](https://discord.com/invite/2t3qJzuUxH) or [WhatsApp Group](https://chat.whatsapp.com/I2y6xw47Vg2DuslgQmLjqg)
