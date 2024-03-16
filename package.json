@@ -1,6 +1,6 @@
 {
     "name": "Jarspy Bot",
-    "version": "0.4.0",
+    "version": "2.0.1",
     "description": "WhatsApp Bot By Jarsépay",
     "main": "index.js",
     "type": "module",
@@ -27,18 +27,18 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/BochilGaming/games-wabot",
+    "homepage": "https://github.com/jarsepay/Jarspy-Bot",
     "author": {
-        "name": "BochilGaming"
+        "name": "jarsepay"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BochilGaming/games-wabot.git"
+        "url": "git+https://github.com/jarsepay/Jarspy-Bot.git"
     },
     "bugs": {
-        "url": "https://github.com/BochilGaming/games-wabot/issues"
+        "url": "https://github.com/jarsepay/Jarspy-Bot/issues"
     },
-    "license": "GPL-3.0-or-later",
+    "license": "MIT",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "^4.2.4",
