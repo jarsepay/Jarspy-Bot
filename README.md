@@ -39,12 +39,7 @@ Wanna see all the bot commands? go to our main bot [here](https://wa.me/62878419
 
 ### Questions
 "How many files have i encrypted for the free version script?"
-> we decided to encrypt some files, so they cannot sell this script and act in their name as the owner of this script.
-
-List of encrypted code:
-- main.js
-
-Warn from me: do not change anything from the above filename list, if you dont want to get any errors!
+> all file is now decrypted, you freely to recode this script (do not sell it)
 
 ### Requirements
 
