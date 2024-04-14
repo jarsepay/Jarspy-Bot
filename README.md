@@ -8,7 +8,7 @@
 <a href="https://t.me/jarsepay"><img title="Owner" src="https://img.shields.io/badge/Contact to Owner-black.svg?style=for-the-badge&logo=telegram"></a>
 </p>
 <p align="center">
-<a href="https://chat.whatsapp.com/I2y6xw47Vg2DuslgQmLjqg"><img title="Grup" src="https://img.shields.io/badge/Grup WhatsApp Bot-green.svg?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://t.me/aeonnixity"><img title="Grup" src="https://img.shields.io/badge/Grup Telegram-green.svg?style=for-the-badge&logo=telegram"></a>
 </p>
 <p align="center">
 <a href="https://discord.com/invite/2t3qJzuUxH"><img title="Grup" src="https://img.shields.io/badge/Discord Server-grey.svg?style=for-the-badge&logo=discord"></a>
