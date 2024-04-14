@@ -1,13 +1,11 @@
-I will not provide an update to switch this connect options to pairing code because it is likely to be sold by JB kid (anak jb) if i provide this update. See more information about this script from our [whatsapp group here](https://chat.whatsapp.com/I2y6xw47Vg2DuslgQmLjqg)
-
-### ⚠️ YOU CAN CONTACT ME TO FIX SOME BUGS & ERRORS [HERE](https://wa.me/6282148864989)
+### ⚠️ YOU CAN CONTACT TO ME TO FIX SOME BUGS & ERRORS [HERE](https://wa.me/6282148864989)
 
 ![cover](https://telegra.ph/file/476dabd35c800091e0357.jpg)
 
 <h1 align="center">Jarspy - Bot</h1>
 
 <p align="center">
-<a href="https://wa.me/6282148864989"><img title="Grup" src="https://img.shields.io/badge/Contact to Owner-black.svg?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://t.me/jarsepay"><img title="Owner" src="https://img.shields.io/badge/Contact to Owner-black.svg?style=for-the-badge&logo=telegram"></a>
 </p>
 <p align="center">
 <a href="https://chat.whatsapp.com/I2y6xw47Vg2DuslgQmLjqg"><img title="Grup" src="https://img.shields.io/badge/Grup WhatsApp Bot-green.svg?style=for-the-badge&logo=whatsapp"></a>
@@ -34,12 +32,11 @@ Jarspy is a WhatsApp Bot with many multifunctional features, using [Games-Wabot]
 - Roleplaying Games: Adventure, Daily, Mining, Hunting, Trading, Transferring, Opening Crates, Gambling, Improve your Ability, Apply for Job, Confess to your favorite Waifu & Husbu, Date with your Waifu & Husbu, Follow or Confess with real person, Kill a person, Jail someone with Police jobs, Heal a low hp players with Doctor jobs, Go eat or starve and died, Get Quest, Move Location, Select your own skills, and many more!
 
 Current feature in total are 400+ feature!
-Wanna see all the bot commands? go to our main bot [here](https://wa.me/6287841972915)
-> our main bot is using the premium script, if you want to buy it please contact the owner [here](https://wa.me/6282148864989)
+> our main bot is using the premium script, if you want to buy it please contact the owner [here](https://t.me/jarsepay)
 
 ### Questions
 "How many files have i encrypted for the free version script?"
-> all file is now decrypted, you freely to recode this script (do not sell it)
+> all file is now decrypted, you freely to recode this script
 
 ### Requirements
 
@@ -63,4 +60,4 @@ Wanna see all the bot commands? go to our main bot [here](https://wa.me/62878419
 > New features will always be added
 
 ## Support Server
-Got any questions or feedback? Join our Discord Server: [Discord Server](https://discord.com/invite/2t3qJzuUxH) or [WhatsApp Group](https://chat.whatsapp.com/I2y6xw47Vg2DuslgQmLjqg)
+Got any questions or feedback? Join our [Telegram Group](https://t.me/aeonnixity)
