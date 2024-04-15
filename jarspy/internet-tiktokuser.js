@@ -29,6 +29,6 @@ jarsepay.help = ['tiktokuser']
 jarsepay.tags = ['internet']
 jarsepay.command = ['ttuser', 'tiktokuser']
 
-jarsepay.limit = true
+jarsepay.limit = 8
 
 export default jarsepay
