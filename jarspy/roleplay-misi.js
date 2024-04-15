@@ -96,8 +96,8 @@ jarspy.before = async (m, { conn }) => {
         await db.users.update(m.sender, (user) => {
         user.exp += json.exp
         user.crystal += json.crystal
-        user.title += json.title
-        user.misi += json.misii
+        user.title = json.title
+        user.misi = json.misii
         })
       } else if(Aku < Kamu) {
         var flr = `Gagal menyelesaikan misi ${json.misii}dikarenakan ${aui}. Darah berkurang sebanyak ${json.health} ❤️`
@@ -112,8 +112,8 @@ jarspy.before = async (m, { conn }) => {
         await db.users.update(m.sender, (user) => {
         user.exp += json.exp
         user.crystal += json.crystal
-        user.title += json.title
-        user.misi += json.misii
+        user.title = json.title
+        user.misi = json.misii
         })
       }
       await db.users.update(m.sender, (user) => {
