@@ -3,28 +3,7 @@
   • Github: https://github.com/jarsepay
   • Bot Script: https://github.com/jarsepay/Jarspy-Bot
   • My Bot: https://chat.whatsapp.com/KieFrG8MEt7C99IJKYS8qE
-  • Ada kesulitan? Hubungi saya wa.me/6282148864989 (Jarsépay)
-
-  # Thanks to all. 
-  • Aaron (My leader)
-  • Neil. T (My Partner)
-  • Karl (Rdp)
-  • Kaleb (Missing Njir)
-  • Uniq (Idea)
-  • BochilGaming (Base)
-  • Whiskeysockets (Baileys)
-  • Tronyx (Optiklink)
-  • Mr.retslav (Retslav founder) & ibas (Helping fix bot connect)
-  • Lolhuman (Api)
-  • Erlan (Api menyala bosku🔥)
-  • Danz/DannTeam (Friend) (Helping me)
-  • Rehan El Staro (Friend) (Helping me)
-  • Manz Radit (Friend) (Hilang gatau kemana)
-  • Nayla (Friend) (Helping me)
-  • Malik & Komang
-  • ImYanXiao & Xnuvers007
-  • Jarsépay
-  • Dan semuanya, sorry kalau ga kesebut
+  • Ada kesulitan? Hubungi saya wa.me/6282148864989 (Jarsépay) / t.me/jarsepay
 */
 
 import { watchFile, unwatchFile } from 'fs'
