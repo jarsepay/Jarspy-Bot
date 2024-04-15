@@ -47,7 +47,7 @@ jarsepay.help = ['yandex', 'yandeximg']
 jarsepay.tags = ['internet']
 jarsepay.command = ['yandex', 'yandeximg']
 
-jarsepay.limit = true
+jarsepay.limit = 5
 
 export default jarsepay
 
