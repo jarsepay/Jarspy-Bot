@@ -1,4 +1,4 @@
-### ⚠️ YOU CAN CONTACT TO ME TO FIX SOME BUGS & ERRORS [HERE](https://wa.me/6282148864989)
+### ⚠️ YOU CAN CONTACT TO ME TO FIX SOME BUGS & ERRORS [HERE](https://t.me/jarsepay)
 
 ![cover](https://telegra.ph/file/476dabd35c800091e0357.jpg)
 
