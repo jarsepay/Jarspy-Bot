@@ -20,7 +20,7 @@ global.owner = [
 global.mods = ['']
 global.prems = ['6282148864989', '6287763792950'] // add it manually for permanent premium users
 
-global.idgc = '120363041509832346@g.us'
+global.idgc = '120363041509832346@g.us' // you must fill your group id first before running this script
 
 global.lolkey = 'GataDios'
 global.lann = 'APIKEYMU' // register to https://api.betabotz.eu.org
