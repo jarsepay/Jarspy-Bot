@@ -18,7 +18,7 @@ export async function before(m, { conn, isAdmin, isBotAdmin }) {
             if (m.text.includes(linkThisGroup)) return !0
         }
         if (isBotAdmin && bot.restrict) {
-            await conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
+           // await conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
             await m.delete()
         } else if (!bot.restrict) return m.reply('Owner mematikan auto kick!')
     }
