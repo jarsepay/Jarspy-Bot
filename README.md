@@ -1,4 +1,4 @@
-### ⚠️ YOU CAN CONTACT TO ME TO FIX SOME BUGS & ERRORS [HERE](https://t.me/jarsepay)
+### ⚠️ GET OUR LATEST UPDATED SCRIPT [HERE](https://chat.whatsapp.com/LGrtCe82EpbKvxYohoRxKn)
 
 ![cover](https://telegra.ph/file/476dabd35c800091e0357.jpg)
 
