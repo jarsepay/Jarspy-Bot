@@ -56,7 +56,7 @@ global.thumbs = 'https://telegra.ph/file/476dabd35c800091e0357.jpg' // is this t
 
 global.sig = 'https://instagram.com/jarsepay' // your instagram
 global.sgh = 'https://github.com/jarsepay' // your github
-global.sgc = 'https://chat.whatsapp.com/KieFrG8MEt7C99IJKYS8qE' // your whatsapp group link
+global.sgc = 'https://chat.whatsapp.com/LGrtCe82EpbKvxYohoRxKn' // your whatsapp group link
 global.sdc = 'https://s.id/aeonnixity' // your discord server (optional)
 global.sid = 'https://s.id/jarspy' // change it to anything, must be a https://... link
 
