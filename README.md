@@ -5,10 +5,10 @@
 <h1 align="center">Jarspy - Bot</h1>
 
 <p align="center">
-<a href="https://t.me/jarsepay"><img title="Owner" src="https://img.shields.io/badge/Contact to Owner-black.svg?style=for-the-badge&logo=telegram"></a>
+<a href="https://wa.me/6282148864989"><img title="Owner" src="https://img.shields.io/badge/Contact to Owner-black.svg?style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p align="center">
-<a href="https://t.me/aeonnixity"><img title="Grup" src="https://img.shields.io/badge/Grup Telegram-grey.svg?style=for-the-badge&logo=telegram"></a>
+<a href="https://chat.whatsapp.com/LGrtCe82EpbKvxYohoRxKn"><img title="Grup" src="https://img.shields.io/badge/Grup Whatsapp-grey.svg?style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p align="center">
 <a href="https://discord.com/invite/2t3qJzuUxH"><img title="Grup" src="https://img.shields.io/badge/Discord Server-grey.svg?style=for-the-badge&logo=discord"></a>
@@ -60,4 +60,4 @@ Current feature in total are 400+ feature!
 > New features will always be added
 
 ## Support Server
-Got any questions or feedback? Join our [Telegram Group](https://t.me/aeonnixity)
+Got any questions or feedback? Join to our [WhatsApp Group](https://chat.whatsapp.com/LGrtCe82EpbKvxYohoRxKn)
