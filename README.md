@@ -1,11 +1,11 @@
-## 📞 CREATOR SCRIPT: [Jeremy (Neribot Owner)](wa.me/6282213162100)
-### 📞 Recoder: [Jarsepay](wa.me/6282148864989)
+## 📞 CREATOR SCRIPT: [Jeremy (Neribot Owner)](https://wa.me/6282213162100)
+### 📞 Recoder: [Jarsepay](https://wa.me/6282148864989)
 ![cover](https://telegra.ph/file/476dabd35c800091e0357.jpg)
 
 <h1 align="center">Jarspy - Bot</h1>
 
 # Introduction
-Jarspy is a WhatsApp Bot with many multifunctional features, using [Games-Wabot Base](https://github.com/BochilGaming/games-wabot) from [BochilGaming](https://github.com/BochilGaming) with Neri Bot combination by [Jeremy](wa.me/6282213162100)
+Jarspy is a WhatsApp Bot with many multifunctional features, using [Games-Wabot Base](https://github.com/BochilGaming/games-wabot) from [BochilGaming](https://github.com/BochilGaming) with Neri Bot combination by [Jeremy](https://wa.me/6282213162100)
 
 ### The features we provide
 - AI: OpenAI, AI Character, Bing, Bing Image, To Anime, To Zombie, etc.
