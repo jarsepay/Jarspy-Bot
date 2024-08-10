@@ -1,4 +1,4 @@
-# This script is not updated, contact us to get the latest updated script
+### This script is not updated, contact us to get the latest updated script
 
 ## 📞 CREATOR SCRIPT: [Jeremy (Neribot Owner)](https://wa.me/6282213162100)
 ### 📞 Recoder: [Jarsepay](https://wa.me/6282148864989)
